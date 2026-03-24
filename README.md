@@ -2,7 +2,7 @@
 
 🏗️ **Ingénieur Génie Civil** | Directeur de Projet TCE | 8 ans BTP
 📍 Casablanca, Maroc
-📧 ajoul.mohamed@gmail.com
+📧 cameleon.projectsid@gmail.com
 
 ## 🔧 Compétences Techniques
 - **Calcul structures** : Robobat, RDM6, calcul BA/BP
