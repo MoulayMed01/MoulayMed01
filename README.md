@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Mohamed Ajoul
+# 👋 Hi, I'm Moulay Mohamed Ajoul
 
 🏗️ **Ingénieur Génie Civil** | Directeur de Projet TCE | 8 ans BTP
 📍 Casablanca, Maroc
