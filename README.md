@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Mohamed Ajoul
 
-<!--
-**MoulayMed01/MoulayMed01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗️ **Ingénieur Génie Civil** | Directeur de Projet TCE | 8 ans BTP
+📍 Casablanca, Maroc
+📧 ajoul.mohamed@gmail.com
 
-Here are some ideas to get you started:
+## 🔧 Compétences Techniques
+- **Calcul structures** : Robobat, RDM6, calcul BA/BP
+- **CAO/DAO** : AutoCAD, Covadis, Piste
+- **Géotechnique** : fondations spéciales, VRD, assainissement
+- **Gestion** : Planning, Budget, QHSE, OPC
+- **Outils IA** : Intégration d'outils d'intelligence artificielle dans le BTP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projets en cours
+- 🏢 Calcul de structures BA avec automatisation Python
+- 📊 Templates de suivi chantier (Excel/Sheets)
+- 📐 Scripts AutoCAD LISP pour automatisation plans
+
+## 📫 Me contacter
+[![LinkedIn](badge)](https://linkedin.com/in/moulay-mohamed-ajoul)
